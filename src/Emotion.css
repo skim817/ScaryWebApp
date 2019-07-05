@@ -1,0 +1,22 @@
+.jj{
+    display: table;
+   
+  }
+  .aa{
+      background-color:black;
+  }
+  .bb{
+    
+      height: 900px;
+  }
+  .score{
+background-color: #fff;
+height: 130px;
+padding-top: 20px;
+  }
+  .scor{
+      text-align: center;
+  }
+  h1 {
+    font-size: 40px;
+  }

@@ -1,0 +1,17 @@
+.webcam{
+    background-color: black;
+    justify-content: center;
+}
+.buttonGroup{
+    margin-left: 20px;
+    display : flex;
+    justify-content: center;
+  }
+  .Beginnera{
+    padding-right: 50px;
+    padding-top: 20px;
+    
+  }
+  .font{
+    font-family: 'Barriecito', cursive;
+  }
