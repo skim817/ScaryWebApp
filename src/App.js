@@ -23,7 +23,7 @@ class App extends React.Component {
 
   whichVideoNo = 0;
 
-  componentDidMount() {
+
     componentDidMount() {
     setInterval(() => {
       this.setState(() => {
@@ -31,7 +31,7 @@ class App extends React.Component {
       });
     }, 1);
   }
-  }
+
 
 
   render() {
