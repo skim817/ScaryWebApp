@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScaryWebApp/static/css/main.4a281433.chunk.css",
+    "main.js": "/ScaryWebApp/static/js/main.f0e24efe.chunk.js",
+    "main.js.map": "/ScaryWebApp/static/js/main.f0e24efe.chunk.js.map",
+    "runtime~main.js": "/ScaryWebApp/static/js/runtime~main.14973206.js",
+    "runtime~main.js.map": "/ScaryWebApp/static/js/runtime~main.14973206.js.map",
+    "static/js/2.ac72015e.chunk.js": "/ScaryWebApp/static/js/2.ac72015e.chunk.js",
+    "static/js/2.ac72015e.chunk.js.map": "/ScaryWebApp/static/js/2.ac72015e.chunk.js.map",
+    "index.html": "/ScaryWebApp/index.html",
+    "precache-manifest.35e7a530401dacfd8559a5ace3b1f348.js": "/ScaryWebApp/precache-manifest.35e7a530401dacfd8559a5ace3b1f348.js",
+    "service-worker.js": "/ScaryWebApp/service-worker.js",
+    "static/css/main.4a281433.chunk.css.map": "/ScaryWebApp/static/css/main.4a281433.chunk.css.map"
+  }
+}
