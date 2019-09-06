@@ -49,8 +49,8 @@ class MyWebcam extends React.Component {
     };
 
     fetchDataForAge = (byteArray) => {
-        const apiKey = 'bf43463afb1d4b12b2f3960aef0eb34b';
-        const apiEndpoint = 'https://eastasia.api.cognitive.microsoft.com/face/v1.0/detect?returnFaceAttributes=age'
+        const apiKey = '0c35ef1b623440fcb31ae7d831d6801e';
+        const apiEndpoint = 'https://scarywebapp.cognitiveservices.azure.com/face/v1.0/detect?returnFaceAttributes=age'
         fetch(apiEndpoint, {
             body: byteArray,
             headers: {
@@ -76,8 +76,8 @@ class MyWebcam extends React.Component {
     }
 
     fetchDataForFear = (byteArray) => {
-        const apiKey = 'bf43463afb1d4b12b2f3960aef0eb34b';
-        const apiEndpoint = 'https://eastasia.api.cognitive.microsoft.com/face/v1.0/detect?returnFaceAttributes=emotion'
+        const apiKey = '0c35ef1b623440fcb31ae7d831d6801e';
+        const apiEndpoint = 'https://scarywebapp.cognitiveservices.azure.com/face/v1.0/detect?returnFaceAttributes=emotion'
         fetch(apiEndpoint, {
             body: byteArray,
             headers: {
