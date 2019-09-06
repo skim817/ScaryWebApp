@@ -24,11 +24,13 @@ class App extends React.Component {
   whichVideoNo = 0;
 
   componentDidMount() {
+    componentDidMount() {
     setInterval(() => {
       this.setState(() => {
         return this.whichVideoNo;
       });
     }, 1);
+  }
   }
 
 
