@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seunzone.github.io/ScaryWebApp",
+  "homepage": "https://skim817.github.io/ScaryWebApp",
   "dependencies": {
     "base64-js": "^1.3.0",
     "bootstrap": "^4.3.1",
