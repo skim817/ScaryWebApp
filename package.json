@@ -13,7 +13,7 @@
     "react-dom": "^16.8.6",
     "react-player": "^1.11.1",
     "react-progressbar": "^15.4.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-webcam": "^1.1.1"
   },
   "scripts": {
